@@ -1,0 +1,10 @@
+spring:
+  profiles:
+    active: file
+  banner:
+    location: logo.txt
+
+app:
+  some:
+    first-property: wartość własności 1
+    second-property: wartość własności 2
